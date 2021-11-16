@@ -30,9 +30,9 @@ Nothing fancy, just some 2.54mm and 1.27mm headers and 2 B3U-1000P like buttons
  
 # License
 
-<img alt="Creative Commons Attribution-NonCommercial 4.0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png">
-
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International [license](https://creativecommons.org/licenses/by-nc/4.0)
+
+<img alt="Creative Commons Attribution-NonCommercial 4.0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png">
 
 # Misc
 
