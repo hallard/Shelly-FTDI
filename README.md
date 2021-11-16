@@ -18,7 +18,7 @@ Look at the schematics for more informations.
 <img src="https://github.com/hallard/Shelly-FTDI/blob/main/pictures/Shelly-FTDI-bot.png" alt="Bottom" width="45%" height="45%">
 
 
-So you can order the board on [oshpark](https://oshpark.com).
+So you can order boards on [oshpark](https://oshpark.com).
 
 - [V1.0](https://oshpark.com/shared_projects/iro7okxZ)
 
